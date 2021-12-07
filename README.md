@@ -1,6 +1,6 @@
 # Segmentation
 Stimulation first-fit, worst-fit, and best-fit in memory segmentation
-<img src=assets.png>
+<img src=assets.png width:300 >
 <br><br>
 ## How this works
 1. User can input at most 5 block of process.
